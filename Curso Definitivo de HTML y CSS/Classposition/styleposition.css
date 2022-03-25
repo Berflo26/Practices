@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.padre{
+    border-top-left-radius: 20px crimson dotted;
+    display: inline-block;
+}
+.box{
+    display: inline-block;
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+}
+#two{
+    background-color: aqua;
+}
